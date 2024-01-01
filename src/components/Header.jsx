@@ -16,7 +16,7 @@ const NavContent = () => {
     <h2>sanyam</h2>
     <div>
       <a href='#home'>home</a>
-      <a href='#about'>about</a>
+      <a href='#about'>skill</a>
       <a href='#services'>services</a>
       <a href='#contact'>contact</a>
     </div>
