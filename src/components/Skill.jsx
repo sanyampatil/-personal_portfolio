@@ -23,11 +23,7 @@ const Skill = () => {
               electronic typesetting, remaining essentially unchanged. It was
               popularised in the 1960s with the
             </p>
-            {/* <CallToAction
-              text='Download CV'
-              icon={<AiOutlineCloudDownload />}
-              action={() => window.open(Resume)}
-            /> */}
+            
           </div>
         </div>
       </section>

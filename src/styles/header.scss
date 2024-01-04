@@ -100,7 +100,9 @@ nav {
  }
 
  > a > button {
-   border: 1px solid $color6_1;
+  //  border: 1px solid $color6_1;
+  border: none;
+
    padding: 0.5rem 2rem;
    background-color: $color1;
    cursor: pointer;
