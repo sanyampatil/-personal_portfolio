@@ -22,6 +22,11 @@ const NavContent = () => {
     </div>
     <a href='mailto:patilsanyam869@gmail.com'>
       <button>Email</button>
+      <div className='bg-red-500 w-50px h-50px rounded-full'></div>
+      <div></div>
+      <div></div>
+      <div></div>
+
     </a>
   </>
   )
